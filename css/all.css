@@ -1,0 +1,13 @@
+@import url('vender/reset.css');
+
+@import url('components/first/header.css');
+@import url('components/first/menu.css');
+@import url('components/first/home.css');
+@import url('components/first/news-feature.css');
+@import url('components/first/latest-video.css');
+@import url('components/first/explore-more.css');
+@import url('components/first/footer.css');
+
+@import url('components/second/films.css');
+@import url('components/second/timeline.css');
+
